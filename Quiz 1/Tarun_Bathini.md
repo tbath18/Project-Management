@@ -13,7 +13,7 @@ I love exploring **technology, startups, and AI**, and I’m excited to learn mo
 - **Tennis & Fitness** 🎾
 - **Travel & Food** 🌎🍜
 
-![Tennis Court]([https://upload.wikimedia.org/wikipedia/commons/1/1d/Tennis_Racket_and_Balls.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_fZloFKWf59aQLvNAmXoqZZsXGytIjSTaoA&s))
+![Tennis Court]([[https://upload.wikimedia.org/wikipedia/commons/1/1d/Tennis_Racket_and_Balls.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_fZloFKWf59aQLvNAmXoqZZsXGytIjSTaoA&s)](https://images.unsplash.com/photo-1622163642998-1ea32b0bbc67?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGVubmlzJTIwcmFja2V0fGVufDB8fDB8fHww))
 
 ## Ranking my favorite hobbies:
 
